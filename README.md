@@ -1,1 +1,3 @@
-# wordle-de-la-hari
+# wordle 
+
+Recreation of wordle in python. Please do not copy.
